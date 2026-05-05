@@ -1,0 +1,25 @@
+{
+  "chapter": 1,
+  "total": 3,
+  "success": 3,
+  "images": [
+    {
+      "label": "MapleGroveSeer",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/MapleGroveSeer.png",
+      "url": "https://dashscope-result-wlcb-acdr-1.oss-cn-wulanchabu-acdr-1.aliyuncs.com/1d/4f/20260505/77c9ad12/7a200e17-31ee-4fc2-b999-33e1011f0f26234419879.png?Expires=1778057766&OSSAccessKeyId=LTAI5tKPD3TMqf2Lna1fASuh&Signature=cwVXxVhBmI7yVuQ2PKKeqUkC6k0%3D",
+      "prompt": "A lone young man in Ming-inspired dark silk robes stands in an autumnal wild maple forest at night, lantern light casting long shadows; his eyes glow faintly silver, revealing invisible spectral threads—some luminous silver, others frayed gray—rising from the ground and vanishing into misty air; cyberpunk-infused xianxia aesthetic, cinematic wide-angle composition, chiaroscuro lighting with deep indigo and crimson tones, fog veiling distant trees, wind-blown red leaves suspended mid-air."
+    },
+    {
+      "label": "NoThreadMan",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/NoThreadMan.png",
+      "url": "https://dashscope-result-wlcb-acdr-1.oss-cn-wulanchabu-acdr-1.aliyuncs.com/1d/aa/20260505/77c9ad12/eef09fa5-7b21-49ac-9b84-ae106d8f060f1467961246.png?Expires=1778057781&OSSAccessKeyId=LTAI5tKPD3TMqf2Lna1fASuh&Signature=yBYWVtKWfgJncVRa1p2yLFAOZ%2B0%3D",
+      "prompt": "A gaunt middle-aged man in tattered gray scholar's robe kneels beneath a gnarled ancient maple tree, face buried in knees, shoulders trembling; no ethereal thread extends from his body—unlike surrounding faint silver or gray spectral lines visible only to the viewer; anime-style with ink-wash sci-fi embellishment, tight medium shot, moody low-key lighting dominated by lantern amber and cold moonlight blue, shallow depth of field, falling crimson leaves blurred in background, subtle digital glitch overlay on the figure’s silhouette."
+    },
+    {
+      "label": "VoidPerception",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/VoidPerception.png",
+      "url": "https://dashscope-result-wlcb-acdr-1.oss-cn-wulanchabu-acdr-1.aliyuncs.com/1d/39/20260505/77c9ad12/371781db-6984-4094-b94d-95bdf786a7873415510479.png?Expires=1778057796&OSSAccessKeyId=LTAI5tKPD3TMqf2Lna1fASuh&Signature=n5oD9rkeHroMapTLz1YwrW6%2FhQY%3D",
+      "prompt": "Close-up profile of沈渊 (23, sharp-featured, black hair tied simply, pale skin, faint bioluminescent veins tracing temples) gazing intently at the empty space where a ghost should emit a冥线; behind him, translucent overlays reveal dozens of floating silver and ashen filaments rising from forest floor into void—except one stark void around a fading gray figure; sci-fi ink-painting hybrid style, vertical composition, dramatic rim lighting from off-screen lantern, high contrast, desaturated crimson and charcoal palette, micro-detail on robe embroidery and leaf veins, zero text or UI elements."
+    }
+  ]
+}
