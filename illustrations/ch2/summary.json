@@ -1,0 +1,25 @@
+{
+  "chapter": 2,
+  "total": 3,
+  "success": 3,
+  "images": [
+    {
+      "label": "MapleSigil",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch2/MapleSigil.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/1d/20260506/6e8aa136/4397bb1e-bf6d-4ce1-9d81-c918d5772666_0.png?Expires=1778105185&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=oYJrnm5XOY0lO9V3RPKg%2BYlr9pA%3D",
+      "prompt": "A mist-shrouded crimson maple forest at twilight, translucent gray-robed figure standing motionless among gnarled trees, faint glowing sigil embedded in ancient bark; sci-fi cinematic style, medium full-body shot with shallow depth of field, ethereal bioluminescent fog diffusing cold blue and violet ambient light, subtle particle glow around the figure’s edges, high-detail texture on weathered bark and tattered fabric, moody atmospheric perspective."
+    },
+    {
+      "label": "SigilTouch",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch2/SigilTouch.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/4e/20260506/6e8aa136/33939af7-200f-48bb-b3df-997705a7fd24_0.png?Expires=1778105213&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=yX9TV9o1QpqdUQjfJ6T%2F4O%2B5W54%3D",
+      "prompt": "Close-up of沈渊's hand touching a pulsating arcane符文 on a blackened maple trunk; his fingers emit faint golden energy threads converging into the glyph, soft light reflecting on his focused, shadowed face; sci-fi anime style, tight framing emphasizing tactile interaction and magical resonance, chiaroscuro lighting with warm gold highlights against deep indigo shadows, intricate linework on the glowing rune, subtle lens flare from inner luminescence."
+    },
+    {
+      "label": "ExitFog",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch2/ExitFog.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/21/20260506/6e8aa136/610b76e0-aa7f-46cf-ba6c-7af61148fa31_0.png?Expires=1778105243&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=K8le3wnRErdiwGTrsM3zlsw5l2s%3D",
+      "prompt": "Two figures walking out of a spectral maple grove into moonlit侯府 garden—沈渊 in dark scholar robes, the gray-robed man now semi-corporeal with visible breath and faint heartbeat glow beneath his chest; cyberpunk-infused sci-fi style, wide-angle rear tracking composition, cool silver moonlight cutting through lingering violet mist, architectural silhouettes of ancient yet tech-augmented pavilions in distance, volumetric lighting with soft rim glow on characters’ shoulders."
+    }
+  ]
+}
