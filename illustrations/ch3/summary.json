@@ -1,0 +1,25 @@
+{
+  "chapter": 3,
+  "total": 3,
+  "success": 3,
+  "images": [
+    {
+      "label": "枫林夜径",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch3/枫林夜径.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/d0/20260507/6e8aa136/ff6a301b-dbd4-49a6-80ea-10731f2528c8_0.png?Expires=1778197869&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=8A6HHAFs6Id5EWWFXu0ykZ1ud68%3D",
+      "prompt": "A mist-shrouded autumn forest at night, gnarled maple trees with twisted black branches loom under a bruised violet moon;沈渊 (a lean East Asian man in weathered tactical coat) leads a hesitant gray-cloaked figure (Plied fabric, face half-hidden) along a narrow path; cyberpunk/sci-fi hybrid style, cinematic wide-angle composition, chiaroscuro lighting with cold blue moonlight piercing fog and warm ember glow from沈渊's handheld lantern casting long, trembling shadows; intricate leaf litter texture, subtle bioluminescent fungi on bark."
+    },
+    {
+      "label": "神像暗影",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch3/神像暗影.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/2b/20260507/6e8aa136/e02b1d0c-18b2-4767-88f0-4127f649eddc_0.png?Expires=1778198196&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=9S0CiSMcENGeVhkJCr8KKtDlCrY%3D",
+      "prompt": "Ancient ruined temple interior bathed in fractured silver moonlight through broken stained-glass windows; a cracked stone deity statue dominates center frame, dust motes swirling in light beams;沈渊 holds a flickering torch, its fire reflecting in his wary eyes as he steps forward;李明 stands frozen behind him, hand gripping his cloak, gaze locked on shifting shadow behind the statue; anime-style with painterly sci-fi detail, medium-close composition, dramatic low-key lighting with high contrast between torch warmth and deep indigo ambient shadows, moss and cobwebs rendered in fine detail."
+    },
+    {
+      "label": "幽冥守卫",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch3/幽冥守卫.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/26/20260507/6e8aa136/8db2d64b-9874-4e57-9988-1068311e9ef7_0.png?Expires=1778199515&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=clgpVQblEPOB6zRb7qIXaODtD60%3D",
+      "prompt": "Subterranean stone chamber lit by three guttering oil lamps on rough-hewn walls;沈渊 and李明 sit across from a tall, featureless black-robed figure wearing an obsidian ritual mask, hands folded; sci-fi gothic atmosphere with faint holographic glyphs flickering unseen in air; anime-meets-cyberpunk aesthetic, symmetrical three-quarter composition, moody Rembrandt lighting emphasizing mask's void-like eye slits and cloth texture, cool teal ambient fill contrasting warm lamp highlights, shallow depth of field focusing on masked figure's stillness."
+    }
+  ]
+}
