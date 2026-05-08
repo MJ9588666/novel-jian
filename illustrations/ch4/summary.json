@@ -1,0 +1,25 @@
+{
+  "chapter": 4,
+  "total": 3,
+  "success": 3,
+  "images": [
+    {
+      "label": "blood_moon_rooftop",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch4/blood_moon_rooftop.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/89/20260508/6e8aa136/da5cfdd9-50f1-4a85-bc1d-b4b789549e7b_0.png?Expires=1778304290&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=f8Ip8%2F8go41AKAoR0zgRm2vQv8Q%3D",
+      "prompt": "A lone figure in tattered black Taoist robes stands on a crumbling eave of a ruined observatory under a swollen blood-red moon; his left eye reflects shattered beams and ash, right eye reveals glowing gray filaments rising from cracked earth like ghostly roots; cyberpunk-meets-ancient-Chinese-fantasy style, high-detail digital painting, low-angle composition, dramatic chiaroscuro with crimson lunar light casting long jagged shadows and eerie greenish ambient glow from underground veins."
+    },
+    {
+      "label": "bronze_casket_cave",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch4/bronze_casket_cave.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/15/20260508/6e8aa136/263b1045-1ff6-4fad-9bc3-5fdee630fe5c_0.png?Expires=1778304318&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=hmsloo56Eo1dl1mRJc8AXJNIRZw%3D",
+      "prompt": "A close-up of an ancient bronze casket resting on frost-covered stone floor inside a narrow subterranean cave; the casket's surface shows bone-like textures and a grotesque 'Ming' character carved from embedded baby teeth; sci-fi horror aesthetic with bioluminescent decay, macro perspective, cold blue-green rim lighting from phosphorescent walls, deep shadow contrast, misty atmosphere, hyperrealistic texture detail on corroded metal and organic inclusions."
+    },
+    {
+      "label": "lotus_cloth_ritual",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch4/lotus_cloth_ritual.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/f8/20260508/6e8aa136/0038013d-1488-4aed-bfc8-5ab75eb0b934_0.png?Expires=1778304344&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=nobx%2BZxueUSsF1TZO7xuszQvH%2FY%3D",
+      "prompt": "A kneeling figure in shadow places a white silk cloth embroidered with a half-bloomed snow lotus onto a pulsating bronze chest; faint luminous green script emerges on the fabric as viscous aqua fluid oozes from tooth-embedded glyphs; anime-style cinematic scene with vertical framing, volumetric fog, moody backlighting from above (simulating shaft of blood-moon light), delicate fabric physics, ethereal glow contrasting with oppressive gloom, intricate linework and atmospheric depth."
+    }
+  ]
+}
