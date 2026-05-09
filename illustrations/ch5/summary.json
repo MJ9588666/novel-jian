@@ -1,25 +1,19 @@
 {
   "chapter": 5,
   "total": 3,
-  "success": 3,
+  "success": 2,
   "images": [
     {
       "label": "blood_web_coffin",
       "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch5/blood_web_coffin.png",
-      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/2d/20260509/6e8aa136/0ad24051-abe5-4047-8311-f777b6ff7ba1_0.png?Expires=1778381890&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=vhQmjdR7PX7TDbuBdmloPG%2BaCXY%3D",
-      "prompt": "A lone figure in a high-collared grey trench coat stands before a seamless black lacquer coffin on a fog-draped Qing Dynasty stone alley at midnight; eerie bioluminescent crimson filaments weave a floating spiderweb above the coffin lid, glowing faintly with internal pulsation; cyberpunk-meets-wuxia aesthetic, ultra-detailed digital painting, low-angle composition, mist diffusing cold blue moonlight and sickly amber ambient glow from unseen lanterns, volumetric fog, cinematic depth of field, hyperreal skin texture and wood grain."
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/cb/20260509/6e8aa136/0424c4b2-86d2-4adb-8361-022d5a808203_0.png?Expires=1778384659&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=QKZeUQXQwyXi22P0dq1Z%2BKAWvXU%3D",
+      "prompt": "A lone figure in a high-collared grey trench coat stands before a black lacquered coffin on fog-draped青石 alley stones; his right eye glows with eerie cyan light, left eye shows desiccated brown crust; intricate crimson filaments float mid-air like living capillaries, weaving a glowing red web over the coffin lid; cyberpunk-meets-ancient-folk-horror aesthetic, cinematic low-angle composition, chiaroscuro lighting with mist-scattered neon-blue ambient glow and sharp crimson filament highlights."
     },
     {
-      "label": "dual_vision_split",
-      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch5/dual_vision_split.png",
-      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/ca/20260509/6e8aa136/4f5556f3-b920-4d36-a4d4-5b3493da1985_0.png?Expires=1778381947&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=71RukulCNziefmHKvmtQQ0M8EU4%3D",
-      "prompt": "Close-up of a man's face split visually by yin-yang perception: right eye shows vivid neon-blue spectral overlay tracing glowing red capillaries crawling across coffin surface; left eye sees only desiccated brown crust on aged wood; rain-slicked cobblestones reflect fractured light, distant silhouette of a startled gray cat vanishing into wall shadow; sci-fi noir style, chiaroscuro lighting with deep indigo shadows and sharp cyan rim light, shallow focus, photorealistic skin pores and ocular detail, atmospheric haze."
-    },
-    {
-      "label": "ritual_lamp_circle",
-      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch5/ritual_lamp_circle.png",
-      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/9b/20260509/6e8aa136/6e9d00c6-d3cb-4fa8-b578-27276546c59d_0.png?Expires=1778384727&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=fRGZk45oAfiX%2B8nmGScFnxNjbfM%3D",
-      "prompt": "Ancient bronze lamp circle in subterranean chamber: twelve flickering purple-flame lamps surround a kneeling silk-robed merchant whose forehead touches a black scabbard engraved with a crescent moon; behind him, a towering figure in silver-chain-embroidered black robe raises a translucent bone dagger; cinematic sci-fi ink-wash fusion, dramatic top-down lighting casting long angular shadows, smoke curling like neural pathways, intricate textile textures, muted gold-and-umber palette, highly detailed ritual atmosphere, no visible faces on robed figure."
+      "label": "hallucination_chamber",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch5/hallucination_chamber.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/9d/20260509/6e8aa136/2362f8d6-8832-4543-9322-99f276405847_0.png?Expires=1778398317&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=wP%2F4KIoIPKTZHfrWhBA5sACohRg%3D",
+      "prompt": "A spectral vision overlay: dim candlelit chamber with twelve purple-lit bronze lamps arranged in a circle; a well-dressed man kneels, forehead pressed to a black scabbard engraved with a crescent moon; behind him, a tall figure in silver-chain-embroidered black robe raises a translucent bone scalpel toward his skull; anime-sci-fi hybrid style, split-focus composition blending real-world alley fog with hallucinatory layer, volumetric lighting with deep indigo shadows and ethereal gold-crimson rim light on skin and blade."
     }
   ]
 }
