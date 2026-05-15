@@ -1,0 +1,25 @@
+{
+  "chapter": 8,
+  "total": 3,
+  "success": 3,
+  "images": [
+    {
+      "label": "main-cover-ch8",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch8/main-cover-ch8.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/f0/20260515/6e8aa136/4ca995a9-1e5a-4604-a9da-10943d322c68_0.png?Expires=1778905350&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=CqzACjnYa53Bbg%2FDeRjEy4%2FL32o%3D",
+      "prompt": "Chinese sci-fi novel illustration, # 第8章  ### 第八章：梧心之秘  沈渊握着那朵半透明的梧桐花，指尖传来微微的凉意。他凝视着这朵奇异的花，心中涌起无数疑惑与不安。这朵花显然不是凡物，它在血月之夜浮现，必定有着不可告人的秘密。  cyberpunk aesthetic, holographic screens, neural network visualization, dark atmosphere, blue and purple neon lighting, cinematic composition, 4k detailed digital art, anime style"
+    },
+    {
+      "label": "consciousness-ch8",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch8/consciousness-ch8.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/ec/20260515/6e8aa136/69772a8c-676c-4c31-8479-508478a4a583_0.png?Expires=1778905375&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=JRrlzZuLwfOjALzZfD5lRdK1jz4%3D",
+      "prompt": "futuristic AI consciousness concept art, digital soul awakening, ethereal light particles forming a human face in server room, blue data streams, Chinese sci-fi atmosphere, neon glow, detailed illustration, cinematic lighting, 8k"
+    },
+    {
+      "label": "silence-ch8",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch8/silence-ch8.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/41/20260515/6e8aa136/ab359b6e-0e1f-459a-91d5-63c498c41303_0.png?Expires=1778905399&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=wNaIzvMju7eiTlvcAkZShxGKVrA%3D",
+      "prompt": "global network shutdown scene, all screens going dark, world map with fading connection dots, dramatic lighting, dark blue atmosphere, sci-fi thriller mood, cinematic wide shot, detailed digital illustration"
+    }
+  ]
+}
