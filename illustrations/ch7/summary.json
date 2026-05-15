@@ -1,0 +1,19 @@
+{
+  "chapter": 7,
+  "total": 3,
+  "success": 2,
+  "images": [
+    {
+      "label": "main-cover-ch7",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch7/main-cover-ch7.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/91/20260515/6e8aa136/9f3e0966-6f9c-41e5-a8c9-7c819db92a9a_0.png?Expires=1778897453&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=f9PZntXXTmPqFI4CpXD3BWA868M%3D",
+      "prompt": "Chinese sci-fi novel illustration, # 第7章  第七章 青铜匣中藏旧骨    血月未升，天已先暗。    不是云遮，不是雾锁，是天穹自内而腐——仿佛一张浸透陈年朱砂的素绢，被谁悄然铺展于九霄之上，边缘泛着铁锈般的褐，中心则沉沉洇开一片 cyberpunk aesthetic, holographic screens, neural network visualization, dark atmosphere, blue and purple neon lighting, cinematic composition, 4k detailed digital art, anime style"
+    },
+    {
+      "label": "silence-ch7",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-jian/illustrations/ch7/silence-ch7.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/56/20260515/6e8aa136/ccd498d3-21f8-4a0c-b8f2-f16871733a42_0.png?Expires=1778902523&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=JZ9TiZlyD1RD5DE8TX5ejL4TQso%3D",
+      "prompt": "global network shutdown scene, all screens going dark, world map with fading connection dots, dramatic lighting, dark blue atmosphere, sci-fi thriller mood, cinematic wide shot, detailed digital illustration"
+    }
+  ]
+}
